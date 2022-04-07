@@ -1,0 +1,1 @@
+INSERT INTO products (name, quantity, price) VALUES ('rohlik', 100, 2.5), ('bread', 75, 25), ('water', 68, 12.30);
